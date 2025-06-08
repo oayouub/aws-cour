@@ -1,0 +1,29 @@
+{
+  "ayoub": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awsprojetayoub-ayoub-cbf9f-authRole",
+      "UnauthRoleArn": "arn:aws:iam::791306526402:role/amplify-awsprojetayoub-ayoub-cbf9f-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::791306526402:role/amplify-awsprojetayoub-ayoub-cbf9f-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-awsprojetayoub-ayoub-cbf9f-deployment",
+      "UnauthRoleName": "amplify-awsprojetayoub-ayoub-cbf9f-unauthRole",
+      "StackName": "amplify-awsprojetayoub-ayoub-cbf9f",
+      "StackId": "arn:aws:cloudformation:eu-west-1:791306526402:stack/amplify-awsprojetayoub-ayoub-cbf9f/f6752f10-411c-11f0-a981-06059f7c695b",
+      "AmplifyAppId": "d1eadpgggsbk6v"
+    },
+    "categories": {
+      "storage": {
+        "users": {}
+      },
+      "function": {
+        "saveUser": {
+          "deploymentBucketName": "amplify-awsprojetayoub-ayoub-cbf9f-deployment",
+          "s3Key": "amplify-builds/saveUser-5175624f7a5562716538-build.zip"
+        }
+      },
+      "api": {
+        "users": {}
+      }
+    }
+  }
+}
